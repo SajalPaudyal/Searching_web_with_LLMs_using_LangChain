@@ -4,6 +4,9 @@ parts/
 var/
 bin/
 bin/
+include/
+share/
+test_suite_analysis/
+managed_context/
 ./bin
 .env
-./share
